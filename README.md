@@ -1,6 +1,8 @@
 
 # 💫 About Me:
 👨‍💻 I’m currently getting a degree in Applied Computer Science<br>🐉 CyberSecurity enthusiast<br>🐧 GNU/Linux fanboy<br>🌱 I’m currently learning C# <br>
+<br>
+![image](https://www.codewars.com/users/zoneel/badges/large)
 
 
 # 💻 Tech Stack:
