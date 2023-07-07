@@ -8,6 +8,14 @@
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 🚧 Latest Projects:
+## [Monk Focus](https://github.com/zoneel/MonkFocus)
+
+> C# | WPF | Entity Framework | MVVM | SQLite
+
+Monk Focus is a productivity manager designed to enhance individuals' work efficiency. It offers a range of features, including work session tracking, task management, and sleep habit monitoring. Users can easily organize their work tasks and track their progress. Additionally, the software includes a website blocking module, empowering users to eliminate distractions by blocking specific websites on their computers.
+    
+
+https://github.com/zoneel/zoneel/assets/40122657/ea816fd7-0d14-4e5b-b1ba-a89779df47e6
 
 ## [Bag Tracker](https://github.com/zoneel/BagTrackerLandingUI)
 
