@@ -25,13 +25,13 @@ https://github.com/zoneel/zoneel/assets/40122657/ea816fd7-0d14-4e5b-b1ba-a89779d
     
  https://user-images.githubusercontent.com/40122657/222971163-8fca8647-b5f5-44e4-8473-de42ddc466ec.mp4
 
-## [🖥 INTEL8086 instructions emulator](https://github.com/zoneel/intel8086-emulator)
+## [🔒 RepoVault](https://github.com/zoneel/RepoVault)
 
-> C# | WinForms | WPF
+> C# | Clean Architecture | Entity Framework | SQLite | Octokit
 
-    emulator of the most essential instructions of Intel 8086 processor.
+App that empowers users to create secure backups of repositories and issues hosted on GitHub while ensuring the confidentiality of sensitive data through AES encryption. Built on clean architecture and uses OctoKit GitHub API client.
     
-![image](https://user-images.githubusercontent.com/40122657/222281872-8be74876-6e33-4a90-aa9d-362b52f317a7.png)
+![273651279-a187761a-37be-435e-8176-ec3140ee7c5f](https://github.com/zoneel/zoneel/assets/40122657/1a33dc0c-26f7-4b69-8213-bfa6d8269dfb)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zoneel&theme=vue-dark&hide_border=false)
