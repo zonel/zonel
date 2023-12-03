@@ -1,12 +1,10 @@
 
-# 🟩 About Me:
-👨‍💻 I’m currently getting a degree in Applied Computer Science<br>🐉 CyberSecurity enthusiast<br>🐧 GNU/Linux fanboy<br>🌱 I’m currently learning .NET <br>
-<br>
-![image](https://www.codewars.com/users/zoneel/badges/large)
+![hello](https://github.com/zoneel/zoneel/assets/40122657/c2227fe9-1c21-4c21-b37b-d5c2e47739aa)
+# 🟢 About Me:
+### 👨‍💻 Backend Developer currently worshipping __Dotnet__ tech stack. 
+### 🎓 Upcoming Applied Computer Science graduate. 
+### 🐧 GNU/Linux user and advocate for open source software.
 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)	![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 # 🚧 Latest Projects:
 ## [🌫️ FogTalk](https://github.com/zoneel/FogTalk)
 
@@ -36,4 +34,3 @@ App that empowers users to create secure backups of repositories and issues host
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zoneel&theme=vue-dark&hide_border=false)
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
