@@ -31,6 +31,3 @@ https://github.com/zoneel/zoneel/assets/40122657/ea816fd7-0d14-4e5b-b1ba-a89779d
 App that empowers users to create secure backups of repositories and issues hosted on GitHub while ensuring the confidentiality of sensitive data through AES encryption. Built on clean architecture and uses OctoKit GitHub API client.
     
 ![273651279-a187761a-37be-435e-8176-ec3140ee7c5f](https://github.com/zoneel/zoneel/assets/40122657/1a33dc0c-26f7-4b69-8213-bfa6d8269dfb)
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=zoneel&theme=vue-dark&hide_border=false)
