@@ -1,11 +1,23 @@
 
 ![hello](https://github.com/zoneel/zoneel/assets/40122657/c2227fe9-1c21-4c21-b37b-d5c2e47739aa)
-# 🟢 About Me:
-### 👨‍💻 Backend Developer currently worshipping __Dotnet__ tech stack. 
-### 🎓 Upcoming Applied Computer Science graduate. 
-### 🐧 GNU/Linux user and advocate for open source software.
 
-# 🚧 Latest Projects:
+# 🚧 My Latest Projects:
+## [🚙 CogniTurismo](https://github.com/zonel/CogniTurismo)
+
+.NET | Microservices | CitusDb | Distributed Databases | Dapper | PostgreSQL | Docker
+
+A high-performance analytics service demonstrating how to implement distributed databases for processing telemetry data from a fleet of self-driving electric vehicles. Built with CitusDB for horizontal scaling and optimized with Dapper for efficient database access, this template shows how to easily deploy a distributed database architecture using simple Docker Compose configuration. Perfect for developers looking to implement scalable solutions for IoT and vehicle telemetry data without the complexity typically associated with distributed systems.
+    
+![cogniturismo](https://github.com/user-attachments/assets/45ae801f-db24-4d16-8718-6325d9b935d1)
+
+## [📚 OmniCatalogue](https://github.com/zonel/OmniCatalogue)
+
+.NET | React | OpenAI API | Tailwind CSS | PostgreSQL | Docker
+
+OmniCatalogue is an AI-powered web application that brings literature to life by transforming text prompts into unique, AI-generated images. Users can explore an extensive gallery of generated images, create their own visuals based on literary scenes, and manage their personal collections.
+
+![image](https://github.com/user-attachments/assets/bc5c9151-187e-40a2-8b00-5fadeb6747e8)
+
 ## [🌫️ FogTalk](https://github.com/zoneel/FogTalk)
 
 > .NET | C# | Web API | MediatR | EF | React | SQL Server | CLEAN architecture | SignalR
@@ -13,21 +25,3 @@
 FogTalk is an instant messaging app template that follows clean architecture. It harnesses the power of SignalR for seamless real-time communication between users. FogTalk not only allows self-hosting but goes a step further, providing end-to-end encryption for secure communication. Additionally, users have the option to route their entire traffic through the TOR network, ensuring privacy and anonymity.
     
 ![281486618-b2762216-2484-4e3f-86df-28bb230e8c38](https://github.com/zoneel/zoneel/assets/40122657/36e10188-eeb3-4404-9d25-f47d1bb93e47)
-
-
-## [🧘 Monk Focus](https://github.com/zoneel/MonkFocus)
-
-> C# | WPF | Entity Framework | MVVM | SQLite
-
-Monk Focus is a productivity manager designed to enhance individuals' work efficiency. It offers a range of features, including work session tracking, task management, and sleep habit monitoring. Users can easily organize their work tasks and track their progress. Additionally, the software includes a website blocking module, empowering users to eliminate distractions by blocking specific websites on their computers.
-    
-
-https://github.com/zoneel/zoneel/assets/40122657/ea816fd7-0d14-4e5b-b1ba-a89779df47e6
-
-## [🔒 RepoVault](https://github.com/zoneel/RepoVault)
-
-> C# | Clean Architecture | Entity Framework | SQLite | Octokit
-
-App that empowers users to create secure backups of repositories and issues hosted on GitHub while ensuring the confidentiality of sensitive data through AES encryption. Built on clean architecture and uses OctoKit GitHub API client.
-    
-![273651279-a187761a-37be-435e-8176-ec3140ee7c5f](https://github.com/zoneel/zoneel/assets/40122657/1a33dc0c-26f7-4b69-8213-bfa6d8269dfb)
